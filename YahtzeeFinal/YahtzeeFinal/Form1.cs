@@ -995,5 +995,20 @@ namespace YahtzeeFinal
 
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void player2To_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
